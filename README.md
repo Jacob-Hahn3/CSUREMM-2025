@@ -1,6 +1,6 @@
 # Demographic Predictors of Flu Vaccination Uptake Research Project
 
-Columbia Summer Undergraduate Research Experience in Mathematical Modeling
+Columbia Summer Undergraduate Research Experience in Mathematical Modeling 2025
 
 * Jacob Hahn: https://www.linkedin.com/in/jacob-robert-hahn-758b74327/
 * Olivia Huang: https://www.linkedin.com/in/olivia-huang-a13690244/
